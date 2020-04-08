@@ -6,12 +6,13 @@ SENTSOR
 - Name Card Information Injector (NCII)  
   *A 'cool' electronic name card with integrated MCU*  
   https://github.com/adamalfath/sentsor-ncii
-- 
+- SENTSOR Core Board 328P  
+  *All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging*
+  https://github.com/adamalfath/sentsor-core-328p
 -
 
 ## Close Project (Commercial)
 - Not listed yet
--
 -
 
 ## What is SENTSOR?
