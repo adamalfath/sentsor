@@ -1,18 +1,20 @@
 # SENTSOR Repository
 SENTSOR  
-*Sensing - Monitoring - Logging*  
+_Sensing - Monitoring - Logging_  
 
 ## Open Source Project
 - Name Card Information Injector (NCII)  
-  *A 'cool' electronic name card with integrated MCU*  
+  _A 'cool' electronic name card with integrated MCU_  
   https://github.com/adamalfath/sentsor-ncii
 - SENTSOR Core Board 328P  
-  *All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging*
+  _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
   https://github.com/adamalfath/sentsor-core-328p
 -
 
 ## Close Project (Commercial)
-- Not listed yet
+- Current Transformer (CT) Monitor  
+  _DAQ, logging, and monitoring interface for Current Transformer_  
+  https://github.com/adamalfath/sentsor-ctmonitor
 -
 
 ## What is SENTSOR?
