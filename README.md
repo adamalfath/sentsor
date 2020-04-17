@@ -16,13 +16,13 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - SENTSOR Core Board 328P  
   _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
   https://github.com/adamalfath/sentsor-core-328p
--
+- More to come... 
 
 ## Close Project (Commercial)
 - Current Transformer (CT) Monitor  
   _DAQ, logging, and monitoring interface for Current Transformer_  
   https://github.com/adamalfath/sentsor-ctmonitor
--
+- ... 
 
 ## Support Open-Source Hardware & SENTSOR!
 Bila kalian tertarik dengan produk-produk SENTSOR, kalian bisa cek marketplace di link berikut:  
