@@ -25,9 +25,9 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - ... 
 
 ## Support Open-Source Hardware & SENTSOR!
-Bila kalian tertarik dengan produk-produk SENTSOR, kalian bisa cek marketplace di link berikut:  
+Bila kalian tertarik dengan produk-produk SENTSOR, kalian bisa cek marketplace ataupun memberikan donasi pada link berikut:  
 
-[![Store](https://img.shields.io/badge/marketplace-Tokopedia-brightgreen.svg)](https://www.tokopedia.com/gerai-sagalarupa/etalase/sentsor-product)  [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](#support-open-source-hardware--sentsor)  
+[![Store](https://img.shields.io/badge/marketplace-Tokopedia-brightgreen.svg)](https://www.tokopedia.com/gerai-sagalarupa/etalase/sentsor-product)  [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/adamalfath)  
 
 Support kalian akan sangat membantu untuk pengembangan open-source hardware dari SENTSOR selanjutnya.
 
