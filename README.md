@@ -11,7 +11,7 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 
 ## Open Source Project
 - Name Card Information Injector (NCII)  
-  _A 'cool' electronic name card with integrated MCU_  
+  _A cool electronic name card with integrated MCU and USB-HID capability_  
   https://github.com/adamalfath/sentsor-ncii
 - SENTSOR Core Board 328P  
   _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
