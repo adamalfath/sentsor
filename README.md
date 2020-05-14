@@ -2,7 +2,7 @@
 ## What is SENTSOR?
 <img src="https://github.com/adamalfath/sentsor/blob/master/media/sentsor-full.png" width="600">  
 
-SENTSOR adalah nama, gagasan, dan harapan. Bermula dari hobi saya sendiri, Adam Alfath, seorang _electronics developer/hobbyist_ dengan latar belakang Fisika Instrumentasi yang tidak jarang dihadirkan sebuah tantangan untuk mendesain perangkat _sensing_ untuk keperluan pengambilan data penelitian, baik on-site ataupun remote. Berasal dari akronim kata inggris SENT (kirim/terkirim) dan SENSOR (perangkat pendeteksi/pengukur), SENTSOR hadir sebagai solusi dari kebutuhan manajemen sensor dari _node_ sampai _end user_ yang berfokus pada 3 pokok:
+SENTSOR adalah nama, gagasan, dan harapan. Bermula dari hobi saya sendiri, Adam Alfath, seorang _electronics developer/hobbyist_ dengan latar belakang Fisika Instrumentasi yang tidak jarang dihadirkan sebuah tantangan untuk mendesain perangkat _sensing_ untuk keperluan pengambilan data penelitian, baik _on-site_ ataupun _remote_. Berasal dari akronim kata inggris SENT (kirim/terkirim) dan SENSOR (perangkat pendeteksi/pengukur), SENTSOR hadir sebagai solusi dari kebutuhan manajemen sensor dari _node_ sampai _end user_ yang berfokus pada 3 pokok:
 1. Sensing - Ambil data fisis yang diinginkan
 2. Monitoring - Pantau, olah dan berikan feedback dari data yang dimiliki
 3. Logging - Rekam dan simpan data untuk kebutuhan analisis  
