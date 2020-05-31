@@ -10,16 +10,16 @@ SENTSOR adalah nama, gagasan, dan harapan. Bermula dari hobi saya sendiri, Adam 
 SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom development_ kebutuhan pengambilan data baik keperluan industri maupun riset, serta sisi _open source_ dengan mencoba menyajikan produk _hardware_ yang _source_-nya dapat diakses dan dimodifikasi secara bebas guna membuka peluang sebesar-besarnya untuk mengoreksi, mengembangkan dan memperbaiki pada setiap iterasinya. SENTSOR memiliki harapan untuk bisa memantik bangkitnya industri elektronika Indonesia terutama bagi para _hobbyist_ untuk bisa membanjiri pasar _hardware_ tanah air (_development board_, _electronic modules_, dll) dengan produksi kita sendiri.
 
 ## Open Source Project
-- Name Card Information Injector (NCII)  
+- **Name Card Information Injector (NCII)** (OSHWA UID: [ID000003](https://certification.oshwa.org/id000003.html))  
   _A cool electronic name card with integrated MCU and USB-HID capability_  
   https://github.com/adamalfath/sentsor-ncii
-- SENTSOR Core Board 328P  
+- **SENTSOR Core Board 328P** (OSHWA UID: [ID000002](https://certification.oshwa.org/id000002.html))  
   _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
   https://github.com/adamalfath/sentsor-core-328p
 - More to come... 
 
 ## Close Project (Commercial)
-- Current Transformer (CT) Monitor  
+- **Current Transformer (CT) Monitor**  
   _DAQ, logging, and monitoring interface for Current Transformer_  
   https://github.com/adamalfath/sentsor-ctmonitor
 - ... 
