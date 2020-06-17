@@ -16,6 +16,8 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - **SENTSOR Core Board 328P** (OSHWA UID: [ID000002](https://certification.oshwa.org/id000002.html))  
   _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
   https://github.com/adamalfath/sentsor-core-328p
+- **SENTSOR Core Board ESP-07S**  
+  _Under Development :smiley:_  
 - More to come... 
 
 ## Close Project (Commercial)
