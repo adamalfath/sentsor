@@ -17,7 +17,8 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
   _All-in-One development board (MCU+RTC+uSD) based on ATmega328P optimized for datalogging_  
   https://github.com/adamalfath/sentsor-core-328p
 - **SENTSOR Core Board ESP-07S**  
-  _Under Development :smiley:_  
+  _All-in-One IoT development board based on ESP-07s optimized for remote sensing and datalogging_  
+  https://github.com/adamalfath/sentsor-core-esp07s
 - More to come... 
 
 ## Close Project (Commercial)
