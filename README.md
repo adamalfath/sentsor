@@ -19,13 +19,28 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - **SENTSOR Core Board ESP-07S** (OSHWA UID: [ID000004](https://certification.oshwa.org/id000004.html))  
   _All-in-One IoT development board based on ESP-07s optimized for remote sensing and datalogging_  
   https://github.com/adamalfath/sentsor-core-esp07s
-- More to come... 
+- **SENTSOR Core Board WROOM-32U**  
+  _All-in-One IoT development board based on ESP32 WROOM-32U optimized for remote sensing and datalogging_  
+  _Board assembled! Gathering energy to write documentation :grinning:_  
+- More to come...  
 
-## Close Project (Commercial)
+## Commercial Product (Custom Project)
 - **Current Transformer (CT) Monitor**  
   _DAQ, logging, and monitoring interface for Current Transformer_  
   https://github.com/adamalfath/sentsor-ctmonitor
-- ... 
+- **Electric Monitoring & Control (EMC)**  
+  _IoT DAQ unit to monitor up to 6 phase AC (1x3 phase + 3x1 phase) with SSR_  
+  _Documentation coming soon!_  
+- **EMC - IR Control Module**  
+  _EMC extension module with IR transmitter, relay and RS485 communication_  
+  _Documentation coming soon!_  
+- **Seismocardiogram (SCG) Sensor Module**  
+  _Sensor front-end with ±2g accelerometer and 16-bit ADC for seismocardiography study_  
+  _Documentation coming soon!_  
+- **Multi Wave Photoplethysmogram (MW-PPG) Sensor Module**  
+  _Sensor front-end with 3 muxed wavelength signal and 16-bit ADC for photoplethysmography study_  
+  _Documentation coming soon!_  
+- ...  
 
 ## Support Open-Source Hardware & SENTSOR!
 Bila kalian tertarik dengan produk-produk SENTSOR, kalian bisa cek marketplace ataupun memberikan donasi pada link berikut:  
