@@ -21,7 +21,7 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
   https://github.com/adamalfath/sentsor-core-esp07s
 - **SENTSOR Core Board WROOM-32U**  
   _All-in-One IoT development board based on ESP32 WROOM-32U optimized for remote sensing and datalogging_  
-  _Board assembled! Gathering energy to write documentation :grinning:_  
+  https://github.com/adamalfath/sentsor-core-wroom32u 
 - More to come...  
 
 ## Commercial Product (Custom Project)
