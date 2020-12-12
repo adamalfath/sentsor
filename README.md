@@ -19,7 +19,7 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - **SENTSOR Core Board ESP-07S** (OSHWA UID: [ID000004](https://certification.oshwa.org/id000004.html))  
   _All-in-One IoT development board based on ESP-07s optimized for remote sensing and datalogging_  
   https://github.com/adamalfath/sentsor-core-esp07s
-- **SENTSOR Core Board WROOM-32U**  
+- **SENTSOR Core Board WROOM-32U** (OSHWA UID: [ID000005](https://certification.oshwa.org/id000005.html))  
   _All-in-One IoT development board based on ESP32 WROOM-32U optimized for remote sensing and datalogging_  
   https://github.com/adamalfath/sentsor-core-wroom32u 
 - More to come...  
