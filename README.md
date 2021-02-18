@@ -24,6 +24,12 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
   https://github.com/adamalfath/sentsor-core-wroom32u 
 - More to come...  
 
+## Software
+- **IoT Battery Calculator**  
+  _Simple calculator to determine IoT Battery Life_  
+  https://github.com/adamalfath/iotbatterycalc
+- ...  
+
 ## Commercial Product (Custom Project)
 - **Current Transformer (CT) Monitor**  
   _DAQ, logging, and monitoring interface for Current Transformer_  
