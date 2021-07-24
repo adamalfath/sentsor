@@ -22,6 +22,9 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
 - **SENTSOR Core Board WROOM-32U** (OSHWA UID: [ID000005](https://certification.oshwa.org/id000005.html))  
   _All-in-One IoT development board based on ESP32 WROOM-32U optimized for remote sensing and datalogging_  
   https://github.com/adamalfath/sentsor-core-wroom32u 
+- **SENTSOR Uno Plus** (OSHWA UID: [ID000006](https://certification.oshwa.org/id000006.html))  
+  _Your beloved classic Arduino Uno development board just got beefed-up!_  
+  https://github.com/adamalfath/sentsor-uno-plus
 - More to come...  
 
 ## Software
@@ -45,6 +48,9 @@ SENTSOR bergerak di 2 sisi, yaitu sisi bisnis dengan menawarkan jasa _custom dev
   _Documentation coming soon!_  
 - **Multi Wave Photoplethysmogram (MW-PPG) Sensor Module**  
   _Sensor front-end with 3 muxed wavelength signal and 16-bit ADC for photoplethysmography study_  
+  _Documentation coming soon!_  
+- **WiFi Camera (LWC)**  
+  _Custom build multi-purpose wireless camera board_  
   _Documentation coming soon!_  
 - ...  
 
